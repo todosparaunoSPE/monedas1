@@ -39,6 +39,7 @@ st.write("""
 • Equipo Nacional:
   - Responsable de la planificación general, comunicación y supervisión del proyecto.
   - Coordinación con directores regionales y representantes de cada CAP.
+
 • Directores Regionales:
   - Coordinarán los eventos en sus respectivas entidades federativas.
   - Asegurarán la implementación adecuada de las actividades y supervisarán el conteo de monedas.
