@@ -116,10 +116,12 @@ st.write("""
   - Alcancías y contenedores personalizados.
   - Máquinas contadoras de monedas.
   - Decoraciones y materiales de promoción.
+
 • Logística y Operación:
   - Transporte y logística para la distribución de materiales.
   - Personal capacitado y supervisores.
   - Sistemas digitales para el registro de ahorros.
+
 • Incentivos y Premios:
   - Premios y reconocimientos para los participantes.
   - Costos asociados a rifas y sorteos.
