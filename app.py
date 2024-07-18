@@ -83,6 +83,7 @@ st.write("""
 • Campaña Nacional:
   - Informar a los empleados sobre los eventos a través de correos electrónicos, intranet, redes sociales y posters.
   - Publicación de un calendario nacional con las fechas de los eventos.
+
 • Incentivos:
   - Ofrecer premios y reconocimientos a los empleados que participen activamente.
   - Organizar competencias amistosas entre departamentos o equipos.
