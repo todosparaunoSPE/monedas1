@@ -131,6 +131,7 @@ st.header("12. Beneficios Esperados")
 st.write("""
 • Cultura de Ahorro:
   - Fomentar una cultura de ahorro voluntario entre los empleados afiliados a las 10 AFOREs.
+
 • Educación Financiera:
   - Mejorar el conocimiento y habilidades financieras de los empleados.
 • Motivación y Compromiso:
