@@ -134,8 +134,10 @@ st.write("""
 
 • Educación Financiera:
   - Mejorar el conocimiento y habilidades financieras de los empleados.
+
 • Motivación y Compromiso:
   - Mantener a los empleados motivados y comprometidos con sus metas de ahorro.
+
 • Impacto Positivo:
   - Crear un ambiente positivo y motivador dentro de la empresa y entre los empleados.
 """)
