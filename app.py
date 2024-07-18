@@ -68,6 +68,7 @@ st.write("""
 • Conteo de Monedas:
   - Estaciones de conteo con máquinas contadoras.
   - Supervisión para garantizar transparencia y precisión.
+
 • Charlas y Talleres:
   - Educación financiera y planificación de ahorros.
   - Expertos financieros y representantes de las 10 AFOREs como ponentes.
