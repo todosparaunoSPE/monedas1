@@ -20,6 +20,7 @@ El proyecto consiste en organizar eventos periódicos de conteo y depósito de m
 st.header("3. Objetivos del Proyecto")
 st.write("""
 • Objetivo General: Incrementar el ahorro voluntario de los trabajadores afiliados a las 10 AFOREs mediante eventos periódicos de conteo y depósito de monedas, promoviendo una cultura de ahorro y educación financiera.
+
 • Objetivos Específicos:
   - Implementar eventos de conteo y depósito de monedas en los CAPs de las 32 entidades federativas.
   - Fomentar la participación de los empleados mediante actividades festivas y recreativas.
