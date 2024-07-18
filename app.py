@@ -42,6 +42,7 @@ st.write("""
 • Directores Regionales:
   - Coordinarán los eventos en sus respectivas entidades federativas.
   - Asegurarán la implementación adecuada de las actividades y supervisarán el conteo de monedas.
+
 • Colaboración con las AFOREs:
   - Establecer un comité de coordinación con representantes de las 10 AFOREs para alinear objetivos y estrategias.
   - Garantizar la participación activa y el apoyo logístico de las AFOREs.
