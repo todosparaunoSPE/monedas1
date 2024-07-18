@@ -53,6 +53,7 @@ st.write("""
 • Selección de Ubicaciones:
   - Utilizar los CAPs existentes como puntos de encuentro.
   - Alternativas de espacios en caso de necesidad (salas de conferencias, auditorios locales, etc.).
+
 • Infraestructura:
   - Máquinas contadoras de monedas.
   - Mesas de conteo y personal capacitado.
