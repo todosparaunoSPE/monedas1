@@ -72,6 +72,7 @@ st.write("""
 • Charlas y Talleres:
   - Educación financiera y planificación de ahorros.
   - Expertos financieros y representantes de las 10 AFOREs como ponentes.
+
 • Actividades Recreativas:
   - Juegos y competencias relacionadas con finanzas.
   - Rifas y sorteos de premios para incentivar la participación.
