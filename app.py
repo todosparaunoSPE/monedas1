@@ -94,6 +94,7 @@ st.write("""
 • Monitoreo:
   - Solicitar reportes diarios de cada CAP durante el evento.
   - Evaluación post-evento para identificar áreas de mejora.
+
 • Comunicación de Resultados:
   - Publicación de un informe nacional que resuma los resultados del evento.
   - Agradecimientos a todos los participantes y organizadores.
