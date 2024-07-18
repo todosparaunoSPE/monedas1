@@ -66,6 +66,7 @@ st.write("""
 • Recepción y Registro:
   - Bienvenida festiva con decoraciones, música y refrigerios.
   - Registro de participantes mediante un sistema digital.
+
 • Conteo de Monedas:
   - Estaciones de conteo con máquinas contadoras.
   - Supervisión para garantizar transparencia y precisión.
